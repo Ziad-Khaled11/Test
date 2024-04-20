@@ -1,0 +1,9 @@
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/test.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/test_autogen_timestamp_deps.dir
+D:/lol/Test/test/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/test_autogen.dir
