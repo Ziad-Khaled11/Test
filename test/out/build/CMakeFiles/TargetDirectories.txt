@@ -1,0 +1,8 @@
+D:/lol/Test/test/out/build/CMakeFiles/test.dir
+D:/lol/Test/test/out/build/CMakeFiles/edit_cache.dir
+D:/lol/Test/test/out/build/CMakeFiles/rebuild_cache.dir
+D:/lol/Test/test/out/build/CMakeFiles/list_install_components.dir
+D:/lol/Test/test/out/build/CMakeFiles/install.dir
+D:/lol/Test/test/out/build/CMakeFiles/install/local.dir
+D:/lol/Test/test/out/build/CMakeFiles/test_autogen_timestamp_deps.dir
+D:/lol/Test/test/out/build/CMakeFiles/test_autogen.dir
