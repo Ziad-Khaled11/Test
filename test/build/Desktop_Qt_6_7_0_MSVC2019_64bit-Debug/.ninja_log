@@ -33,3 +33,9 @@
 60	438	7352759893741734	E:/Test/test/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/test_autogen/mocs_compilation.cpp	318885fe7f1b15e5
 451	4471	7352759933908245	CMakeFiles/test.dir/mainwindow.cpp.obj	eb56f89534021f1f
 4471	4878	7352759937445838	test.exe	e23a907baf8ce68e
+19	356	7352767760933558	test_autogen/timestamp	318885fe7f1b15e5
+19	356	7352767760933558	test_autogen/mocs_compilation.cpp	318885fe7f1b15e5
+19	356	7352767760933558	E:/Test/test/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/test_autogen/timestamp	318885fe7f1b15e5
+19	356	7352767760933558	E:/Test/test/build/Desktop_Qt_6_7_0_MSVC2019_64bit-Debug/test_autogen/mocs_compilation.cpp	318885fe7f1b15e5
+372	4965	7352767806789161	CMakeFiles/test.dir/mainwindow.cpp.obj	eb56f89534021f1f
+4967	5638	7352767812567933	test.exe	e23a907baf8ce68e
