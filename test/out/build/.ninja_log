@@ -1,0 +1,9 @@
+# ninja log v5
+27	955	7352770449850381	test_autogen/timestamp	8f2543134bf8489a
+27	955	7352770449850381	test_autogen/mocs_compilation.cpp	8f2543134bf8489a
+27	955	7352770449850381	D:/lol/Test/test/out/build/test_autogen/timestamp	8f2543134bf8489a
+27	955	7352770449850381	D:/lol/Test/test/out/build/test_autogen/mocs_compilation.cpp	8f2543134bf8489a
+963	3949	7352770480590121	CMakeFiles/test.dir/main.cpp.obj	98a300d50e838e7f
+956	3962	7352770480673618	CMakeFiles/test.dir/test_autogen/mocs_compilation.cpp.obj	e8d9e3e5cc60130b
+972	4056	7352770481672299	CMakeFiles/test.dir/mainwindow.cpp.obj	38ee0851829870fe
+4057	4503	7352770485905000	test.exe	58a14eacf8f1ac3a

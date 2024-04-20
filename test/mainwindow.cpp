@@ -15,6 +15,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
-    ui->label->setText("I love zoz");
+    //rorooooooooo was heree
+    ui->label->setText("I love zozz");
 }
 
