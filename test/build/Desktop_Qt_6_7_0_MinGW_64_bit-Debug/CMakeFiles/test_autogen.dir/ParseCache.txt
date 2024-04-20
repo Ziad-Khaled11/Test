@@ -352,6 +352,6 @@ D:/lol/Test/test/mainwindow.h
  mdp:D:/qt_cereator/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
  mdp:D:/qt_cereator/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:D:/qt_cereator/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
-D:/lol/Test/test/main.cpp
 D:/lol/Test/test/mainwindow.cpp
  uic:./ui_mainwindow.h
+D:/lol/Test/test/main.cpp
